@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Sarath-Chelluri
-- 👀 I’m interested in Backend Web Development
-- 🌱 I’m currently learning Django and Flask
 - 💞️ I’m looking to collaborate on any projects that are open source
 - 📫 How to reach me SarathChelluri@outlook.com
 
