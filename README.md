@@ -5,7 +5,9 @@ I have 1 year of experience working with Python and possess skills in SQL and C 
 Projects:
 
 Cartoon Face Generator: I built a Generative Adversarial Network (GAN) using PyTorch to create unique cartoon faces. This project demonstrates my understanding of deep learning concepts.
+
 Voice-to-Sign Language Converter: I developed a project that converts voice input to sign language using the Keras library. This project highlights my interest in applying data science for real-world accessibility solutions.
+
 Feel free to browse my repositories!
 
 <!---
